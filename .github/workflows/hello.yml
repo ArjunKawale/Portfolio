@@ -1,0 +1,14 @@
+name: Simple Push Action
+
+on: [push]
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Print Hello World
+        run: echo "✅ Hello World - Code pushed to ${{ github.ref_name }}"
