@@ -1,4 +1,4 @@
-# 🧠 Arjun Kawale — Portfolio
+# ⚡ Arjun Kawale — Portfolio
 
 Welcome to my portfolio! I’m an aspiring AI/ML engineer and full-stack developer currently pursuing my B.Tech in Electronics and Computer Science Engineering at Vidyalankar Institute of Technology.
 
